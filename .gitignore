@@ -1,4 +1,5 @@
 dataset/
+catboost_info/
 *.parquet
 
 venv/
