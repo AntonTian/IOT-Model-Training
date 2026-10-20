@@ -1,6 +1,7 @@
 dataset/
 catboost_info/
 *.parquet
+backups/
 
 venv/
 .ipynb_checkpoints/
